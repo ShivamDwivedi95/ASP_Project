@@ -1,4 +1,4 @@
-# ASP_Project
+# Client Server Programming   
 Implementation of distributed processing of grep with client server programming
 
 There are two programs server.c (server) and dgrep.c (client) in C to implement a simple
